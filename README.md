@@ -18,7 +18,7 @@
 ## 🌱 Skills  
 
 ### 🖥️ Programming Languages  
-✔ **Java**, **C**, **Node.js**, **SQL**, **HTML**, **CSS**  
+✔ **Java**, **C**, **Node.js**, **SQL**, **HTML**, **CSS**, **Python**, **React.js**  
 
 ### ☁️ Cloud Services  
 ✔ **AWS** (VPC, Lambda, EC2, S3, DynamoDB, API Gateway)  
@@ -26,12 +26,12 @@
 ✔ **Terraform** (Infrastructure as Code – IaC)  
 
 ### ⚙️ Tools & Frameworks  
-✔ **Node.js**, **Express.js**, **MongoDB**, **MySQL**  
+✔ **Node.js**, **Express.js**, **MongoDB**, **MySQL**, **React.js**  
 
 ### 🔐 Specializations  
 ✔ **Cloud Security**  
 ✔ **Backend Technologies**  
-✔ **Full-Stack Development (Basics)**  
+✔ **Full-Stack Development**  
 
 ---
 
