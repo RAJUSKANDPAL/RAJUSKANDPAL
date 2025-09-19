@@ -11,7 +11,7 @@
 🔹 Deeply interested in **Cloud Computing** across **AWS, Azure, and Google Cloud Platform (GCP)**.  
 🔹 Currently exploring **Generative AI**, **Cloud Security**, and **backend development**.  
 🔹 Strong foundation in **Data Structures & Algorithms**, aiming to solve **real-world challenges** using technology.  
-🔹 Active participant in **tech communities, hackathons, and NSS/GDSC initiatives**.  
+ 
 
 ---
 
