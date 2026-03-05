@@ -1,7 +1,7 @@
 # Hi there, I'm Raju Skandpal! 👋
 
 ### 🚀 Aspiring Cloud Architect & Data Science Enthusiast
-I am a first-year B.Tech student passionate about building scalable infrastructure and leveraging AI to solve real-world problems. Currently, I serve as the **Student Placement Representative** for the B.Tech program, where I bridge the gap between industry talent and campus opportunities.
+I am a final-year B.Tech student passionate about building scalable infrastructure and leveraging AI to solve real-world problems. Currently, I serve as the **Student Placement Representative** for the B.Tech program, where I bridge the gap between industry talent and campus opportunities.
 
 ---
 
@@ -33,7 +33,7 @@ I am a first-year B.Tech student passionate about building scalable infrastructu
 ---
 
 ### 📫 Let's Connect!
-* **LinkedIn:** [Your LinkedIn Profile Link]
+* **LinkedIn:** [https://www.linkedin.com/in/rajuskandpal/]
 * **Portfolio:** [Your Portfolio Link if applicable]
 * **Email:** [Your Email Address]
 
