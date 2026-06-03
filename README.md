@@ -1,4 +1,4 @@
-# Hi there, I'm Raju Skandpal! 👋
+# Hi there, I'm Rajus Kandpal! 👋
 
 ### 🚀 Aspiring Cloud Architect & Data Science Enthusiast
 I am a final-year B.Tech student passionate about building scalable infrastructure and leveraging AI to solve real-world problems. Currently, I serve as the **Student Placement Representative** for the B.Tech program, where I bridge the gap between industry talent and campus opportunities.
